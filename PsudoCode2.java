@@ -3,6 +3,6 @@ public class PsudoCode2 {
         System.out.println("Molla");
         System.out.println("Molla Sakil Hossen");
         System.out.println("Heyyyyyyy buddygit ");
-        System.out.println("Mlolllagit ");
+        System.out.println("Mlolllagit git");
     }
 }
